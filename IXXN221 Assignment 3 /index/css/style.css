@@ -1,0 +1,382 @@
+body {
+
+    background-color: #ffdbe4;
+    font-family: 'Raleway', sans-serif;
+    font-size: 33px;
+
+
+ 
+    
+}
+
+
+nav ul {
+    height: 48px;
+    width: 1400px;
+    position: relative;
+   
+   
+}
+
+nav ul {
+   
+   margin-bottom: 600px;
+}
+
+nav li {
+    
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+}
+
+
+.nav {
+    
+   margin-top: 150px;
+  position: relative;
+  left: 25%;
+  text-align: center;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 20px;
+
+
+} 
+a:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+.nav2 {
+    font-size: 48px;
+    text-align: center;
+   
+
+} 
+
+h1 {
+text-align: center;
+color: #DA0335;
+font-family: 'Montserrat', sans-serif;
+font-size: 79px;
+
+margin-bottom: 30px;
+
+
+}
+
+h2 {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 58px;
+    text-align: center;
+
+}
+
+h3 {
+  
+font-size: 50px;
+
+text-align: left;
+
+}
+
+
+.entry {
+text-decoration: underline;
+
+}
+
+
+
+
+
+
+  
+
+    
+    
+.Weekone{
+
+
+background-color: #FDBAB2;
+position: relative;
+top: 600px;
+
+font-size: 36px;
+height: 600px;
+width: 50%;
+margin: 20px;
+padding: 40px;
+
+text-align: left;
+ 
+
+
+}
+
+.persona { 
+    scale: 50%;
+    position: relative;
+    left:6%;
+  width: 50px;
+  height: 200px;
+   
+   
+    }
+
+
+.colour1 {
+    position: relative;
+    top: -620px;
+    left: -750px;
+    scale: 30%;
+}
+.colour2 {
+    position: relative;
+    top: -650px;
+    left: -762px;
+    scale: 29%;
+}
+
+.colour3 {
+    position: relative;
+    top: -700px;
+    left: -757px;
+    scale: 29.5%;
+}
+.journey {
+    position: relative;
+    top: 00px;
+    left: -650px;
+    scale: 40%;
+}
+
+
+
+.Weektwo{
+
+   
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 600px;
+    left:46%;
+    font-size: 36px;
+    height: 600px;
+    width: 50%;
+    margin: 20px;
+    padding: 40px;
+
+    text-align: left;
+
+}
+
+
+
+
+
+.Weekthree{
+    
+    background-color: #FDBAB2;
+    position: relative;
+    top: 900px;
+    
+    font-size: 36px;
+    height: 600px;
+    width: 50%;
+    margin: 20px;
+    padding: 40px;
+    
+    text-align: left;
+     
+    
+
+}
+
+
+.Weekfour{
+     
+    background-color:#FDBAB2;
+    position: relative;
+    top: 1200px;
+    left:46%;
+    font-size: 36px;
+    height: 750px;
+    width: 50%;
+    margin: 20px;
+    padding: 40px;
+
+    text-align: left;
+}
+
+.Weekfive{
+     
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: -100px;
+    
+    font-size: 36px;
+    height: 600px;
+    width: 50%;
+    margin: 20px;
+    padding: 40px;
+    
+    text-align: left;
+     
+ } 
+
+.Weeksix{
+    
+    
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 250px;
+    left:46%;
+    font-size: 36px;
+    height: 750px;
+    width: 50%;
+    margin: 20px;
+    padding: 40px;
+
+    text-align: left;
+
+
+
+ } 
+
+.description {
+
+position: relative;
+top:950px;
+left: 6%;
+}
+
+.description1 {
+
+    position: relative;
+    top:450px;
+    left: 9%;
+
+
+
+}
+.persona {
+scale: 35%;
+top:880px;
+left: 8%;
+
+    }
+
+
+ .Weekseven{
+  
+    background-color:#FDBAB2;
+    position: relative;
+    top: -400px;
+    
+    font-size: 36px;
+    height: 500px;
+    width: 50%;
+    margin: 20px;
+    padding: 40px;
+    
+    text-align: left;
+    
+    }
+    
+    
+    .Weekeight{
+        
+         
+        background-color: #FDBAB2;
+        position: relative;
+        top: -50px;
+        left:46%;
+        font-size: 36px;
+        height: 650px;
+        width: 50%;
+        margin: 20px;
+        padding: 40px;
+    
+        text-align: left;
+    }
+    
+    
+    
+    .Weeknine{
+       
+        background-color: rgb(255, 255, 255);
+        position: relative;
+        top: 350px;
+        
+        font-size: 36px;
+        height: 550px;
+        width: 50%;
+        margin: 20px;
+        padding: 40px;
+        
+        text-align: left;
+    
+    }
+    
+    
+    .Weekten{
+         
+        background-color: #ffffff;
+        position: relative;
+        top: 700px;
+        left:46%;
+        font-size: 36px;
+        height: 530px;
+        width: 50%;
+        margin: 20px;
+        padding: 40px;
+    
+        text-align: left;
+    
+    }
+    
+    .Weekeleven{
+        
+        background-color: rgb(255, 255, 255);
+        position: relative;
+        top: 1050px;
+        
+        font-size: 36px;
+        height: 450px;
+        width: 50%;
+        margin: 20px;
+        padding: 40px;
+        
+        text-align: left;
+    
+     } 
+    
+     .Weektwelve{
+         
+        background-color: #FDBAB2;
+        position: relative;
+        top: 1400px;
+        left:46%;
+        font-size: 36px;
+        height: 530px;
+        width: 50%;
+        margin: 20px;
+        padding: 40px;
+    
+        text-align: left;
+     } 
+.frame{
+text-decoration: underline;
+scale: 110%;
+margin-bottom: 100px;
+
+}
